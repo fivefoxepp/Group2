@@ -1,0 +1,50 @@
+body {
+    margin-top: 70px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: rgb(222, 238, 209) no-repeat center center fixed;
+    background-size: cover;
+    color: rgb(248, 64, 162);
+    line-height: 2; /* ระยะห่างระหว่างบรรทัด */
+}
+
+h1 {
+    margin-bottom: 30px; /* เพิ่มระยะห่างจากหัวข้อ */
+    
+}
+
+a {
+    text-decoration: none;
+    color: rgb(171, 251, 158) no-repeat center center fixed;ed ; /* กำหนดสีของข้อความ */
+    font-size: 18px; /* ขนาดตัวอักษร */
+    margin-bottom: 20px; /* เพิ่มช่องว่างระหว่างลิงก์ */
+    line-height: 3; /* ระยะห่างระหว่างบรรทัด */
+}
+
+a:hover {
+    color: greenyellow; /* เปลี่ยนสีเมื่อชี้เมาส์ */
+}
+
+h2 {
+    text-align: left; /* จัดข้อความให้อยู่ทางซ้าย */  
+    padding-left: 350px; /* เพิ่มระยะห่างด้านซ้าย */
+}
+/* สไตล์สำหรับปุ่ม Back */
+.btn-back {
+    display: inline-block;
+    padding: 10px 10px;
+    margin-top: 10px;
+    background-color: #cfcfb5;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    position: fixed;
+    bottom : 20px;
+    right : 70px;
+}
+
+.btn-back:hover {
+    background-color: #55acce;
+}
+

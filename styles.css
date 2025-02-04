@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: rgb(215, 215, 215) no-repeat center center fixed;
+    background-size: cover;
+    color: orange;
+    line-height: 2; /* ระยะห่างระหว่างบรรทัด */
+}
+
+h1 {
+    margin-bottom: 50px; /* เพิ่มระยะห่างจากหัวข้อ */
+}
+
+a {
+    text-decoration: none;
+    color: palevioletred ; /* กำหนดสีของข้อความ */
+    font-size: 18px; /* ขนาดตัวอักษร */
+    margin-bottom: 20px; /* เพิ่มช่องว่างระหว่างลิงก์ */
+    line-height: 3; /* ระยะห่างระหว่างบรรทัด */
+}
+
+a:hover {
+    color: greenyellow; /* เปลี่ยนสีเมื่อชี้เมาส์ */
+}
+

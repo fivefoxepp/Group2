@@ -13,7 +13,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: palevioletred ; /* กำหนดสีของข้อความ */
+    color: orange ; /* กำหนดสีของข้อความ */
     font-size: 18px; /* ขนาดตัวอักษร */
     margin-bottom: 20px; /* เพิ่มช่องว่างระหว่างลิงก์ */
     line-height: 3; /* ระยะห่างระหว่างบรรทัด */
